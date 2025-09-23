@@ -8,10 +8,12 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.19.4",
+    "@hono/node-ws": "^1.2.0",
     "hono": "^4.9.8"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
+    "@types/ws": "^8.18.1",
     "tsx": "^4.7.1",
     "typescript": "^5.8.3"
   }
